@@ -5,5 +5,7 @@ package com.Interview;
  public static void main(String[] args)
 {
 	System.out.println("hello without name");
+	
+	System.out.println("Hello get check");
 }
 }
